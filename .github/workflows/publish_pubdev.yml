@@ -16,3 +16,4 @@ jobs:
         with:
           credentialJson: ${{ secrets.CREDENTIAL_JSON }}
           format: true
+          flutterBranch: master

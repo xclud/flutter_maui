@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // than having to individually change instances of widgets.
     return DoubleBackToExit(
       onPopCanceled: (context) {
-        print('Cancel');
+        print('Canceled');
       },
       child: Scaffold(
         appBar: AppBar(

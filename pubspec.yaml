@@ -1,11 +1,12 @@
 name: maui
-description: Multi-Application UI and Widgets for Flutter.
-version: 0.0.1
+description: Multi-Application UI and lots of utility Widgets for Flutter.
+version: 0.0.2
 homepage: https://pwa.ir
 repository: https://github.com/xclud/flutter_maui/
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
+  flutter: ">=3.13.5"
 
 dependencies:
   flutter:
